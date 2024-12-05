@@ -1,0 +1,4 @@
+Quiera comentar que apenas abres esta carpeta aparece que sale un error en la clase "Usuario" el cual realmente no es un
+error simplemente con darle "Ctrl + S" se arreglara ( ˶ˆᗜˆ˵ ).
+
+Muchas gracias, espero que el código sea de su agrado. 
